@@ -1,6 +1,6 @@
 # iş arama platformu.
 
-# is arama üzerine tasarlanmış bir projedir
+# is arama üzerine tasarlanmış, yorum ve örneklerle güçlendirilmiş örnek bir projedir
 
 # Ekran görüntüsü
 
