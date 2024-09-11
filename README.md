@@ -1,4 +1,4 @@
-# -is-Sitesi
+# iş arama platformu.
 
 # is arama üzerine tasarlanmış bir projedir
 
