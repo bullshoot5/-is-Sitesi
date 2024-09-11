@@ -5,4 +5,3 @@
 # Ekran görüntüsü
 
 ![](is.gif)
-# -is-Sitesi
